@@ -1,1 +1,0 @@
-This repository includes assignments from the class "Math Methods ME" at Umass Lowell in Fall 2022. Each branch includes all of the files included in each assignment. The class assignments and homework were mostly on an online platform, so the assignments uploaded here are the code portions from the class exams.
